@@ -1,0 +1,4 @@
+pandas==2.2.2
+tensorflow==2.16.1
+matplotlib==3.9.0
+jupyter==1.0.0
