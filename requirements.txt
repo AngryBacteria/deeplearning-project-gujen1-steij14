@@ -5,6 +5,5 @@ matplotlib==3.9.0
 jupyter==1.0.0
 livelossplot==0.5.5
 IPython==8.25.0
-pydot-ng==2.0.0
-graphviz==0.20.3
 nltk==3.8.1
+keras-tuner==1.4.7
