@@ -3,8 +3,6 @@ keras==3.3.3
 tensorflow==2.16.1
 matplotlib==3.9.0
 jupyter==1.0.0
-livelossplot==0.5.5
-IPython==8.25.0
 nltk==3.8.1
 keras-tuner==1.4.7
 
