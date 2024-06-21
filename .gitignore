@@ -161,7 +161,13 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-data/
+# Ignore everything in these folders
+data/dog_bird/*
+data/fish_lizard_monkey_snake/*
+
+# But don't ignore .txt files
+!data/dog_bird/*.txt
+!data/fish_lizard_monkey_snake/*.txt
 
 .zip
 .JPEG
